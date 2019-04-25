@@ -1,0 +1,343 @@
+{
+paradas: [
+{
+nombre: "José Aguilar de Dios",
+numero: 500,
+lat: "37.89264",
+lng: "-4.81136",
+tipo: "inicio"
+},
+{
+nombre: "José Aguilar de Dios 2ª",
+numero: 501,
+lat: "37.89565",
+lng: "-4.81102",
+tipo: ""
+},
+{
+nombre: "Albaida",
+numero: 426,
+lat: "37.89542",
+lng: "-4.808316",
+tipo: ""
+},
+{
+nombre: "Ctra. Trassierra (Anna Pavlova) D.C",
+numero: 402,
+lat: "37.894184",
+lng: "-4.802822",
+tipo: ""
+},
+{
+nombre: "Isla Formentera",
+numero: 315,
+lat: "37.892971",
+lng: "-4.799572",
+tipo: ""
+},
+{
+nombre: "Isla Mallorca D.C (Juzgados)",
+numero: 329,
+lat: "37.891811",
+lng: "-4.798719",
+tipo: ""
+},
+{
+nombre: "Arroyo del Moro D.C.",
+numero: 330,
+lat: "37.889328",
+lng: "-4.797501",
+tipo: ""
+},
+{
+nombre: "Escritor Mercado Solís D.C.",
+numero: 99,
+lat: "37.888805",
+lng: "-4.795087",
+tipo: ""
+},
+{
+nombre: "Francisco Azorín",
+numero: 342,
+lat: "37.887527",
+lng: "-4.794411",
+tipo: ""
+},
+{
+nombre: "RENFE-Est.Buses OESTE",
+numero: 442,
+lat: "37.888615",
+lng: "-4.790447",
+tipo: ""
+},
+{
+nombre: "Avda. América",
+numero: 51,
+lat: "37.88969",
+lng: "-4.784809",
+tipo: ""
+},
+{
+nombre: "Gran Capitán",
+numero: 131,
+lat: "37.888847",
+lng: "-4.782754",
+tipo: ""
+},
+{
+nombre: "Ronda Tejares (Calle Caño)",
+numero: 459,
+lat: "37.888958",
+lng: "-4.779904",
+tipo: ""
+},
+{
+nombre: "Claudio Marcelo (Tendillas)",
+numero: 271,
+lat: "37.884457",
+lng: "-4.778425",
+tipo: ""
+},
+{
+nombre: "Diario Córdoba",
+numero: 83,
+lat: "37.884266",
+lng: "-4.776344",
+tipo: ""
+},
+{
+nombre: "San Fernando",
+numero: 261,
+lat: "37.881336",
+lng: "-4.776113",
+tipo: ""
+},
+{
+nombre: "El Potro (la Ribera)",
+numero: 326,
+lat: "37.880104",
+lng: "-4.774611",
+tipo: ""
+},
+{
+nombre: "Cuesta de la Pólvora",
+numero: 170,
+lat: "37.880531",
+lng: "-4.767385",
+tipo: ""
+},
+{
+nombre: "Camino de la Barca",
+numero: 360,
+lat: "37.879303",
+lng: "-4.764687",
+tipo: ""
+},
+{
+nombre: "Periodista Eduardo Baro",
+numero: 69,
+lat: "37.877956",
+lng: "-4.763619",
+tipo: ""
+},
+{
+nombre: "Periodista José Luis De Córdoba",
+numero: 327,
+lat: "37.877815",
+lng: "-4.761125",
+tipo: ""
+},
+{
+nombre: "Calderón de la Barca",
+numero: 361,
+lat: "37.87928",
+lng: "-4.75999",
+tipo: ""
+},
+{
+nombre: "Virgen de la Fuensanta",
+numero: 363,
+lat: "37.882763",
+lng: "-4.758228",
+tipo: ""
+},
+{
+nombre: "San Martín de Porres",
+numero: 357,
+lat: "37.882565",
+lng: "-4.755734",
+tipo: ""
+},
+{
+nombre: "Virgen del Mar",
+numero: 295,
+lat: "37.884525",
+lng: "-4.753717",
+tipo: ""
+},
+{
+nombre: "Alonso G. Figueroa",
+numero: 4,
+lat: "37.887314",
+lng: "-4.752553",
+tipo: ""
+},
+{
+nombre: "Sta. Emilia de Rodat (Gago Jiménez)",
+numero: 269,
+lat: "37.887058",
+lng: "-4.756587",
+tipo: "fin-sigue"
+},
+{
+nombre: "Ministerio de la Vivienda",
+numero: 208,
+lat: "37.885147",
+lng: "-4.75657",
+tipo: ""
+},
+{
+nombre: "Virgen de la Fuensanta 1ª",
+numero: 381,
+lat: "37.882923",
+lng: "-4.757826",
+tipo: ""
+},
+{
+nombre: "Virgen de la Fuensanta 2ª",
+numero: 443,
+lat: "37.881786",
+lng: "-4.76229",
+tipo: ""
+},
+{
+nombre: "Campo Madre de Dios ( Agustín Moreno)",
+numero: 171,
+lat: "37.881371",
+lng: "-4.767133",
+tipo: ""
+},
+{
+nombre: "El Potro (La Ribera) D.C.",
+numero: 93,
+lat: "37.880192",
+lng: "-4.774209",
+tipo: ""
+},
+{
+nombre: "Puerta del Puente",
+numero: 282,
+lat: "37.87764",
+lng: "-4.778999",
+tipo: ""
+},
+{
+nombre: "Mártires",
+numero: 180,
+lat: "37.877628",
+lng: "-4.782196",
+tipo: ""
+},
+{
+nombre: "Doctor Fléming",
+numero: 85,
+lat: "37.878788",
+lng: "-4.783809",
+tipo: ""
+},
+{
+nombre: "Glorieta Cruz Roja",
+numero: 74,
+lat: "37.8806",
+lng: "-4.785233",
+tipo: ""
+},
+{
+nombre: "Paseo Victoria (Puerta Gallegos)",
+numero: 236,
+lat: "37.884151",
+lng: "-4.784857",
+tipo: ""
+},
+{
+nombre: "Avda. Cervantes",
+numero: 380,
+lat: "37.88728",
+lng: "-4.784524",
+tipo: ""
+},
+{
+nombre: "Glorieta Tres Culturas",
+numero: 207,
+lat: "37.889267",
+lng: "-4.787451",
+tipo: ""
+},
+{
+nombre: "RENFE - Est.Buses",
+numero: 313,
+lat: "37.889206",
+lng: "-4.789524",
+tipo: ""
+},
+{
+nombre: "Huerta del Recuero",
+numero: 435,
+lat: "37.888149",
+lng: "-4.793993",
+tipo: ""
+},
+{
+nombre: "Escritor Mercado Solís",
+numero: 98,
+lat: "37.888676",
+lng: "-4.796636",
+tipo: ""
+},
+{
+nombre: "Arroyo del Moro",
+numero: 325,
+lat: "37.8922",
+lng: "-4.798429",
+tipo: ""
+},
+{
+nombre: "Ctra. Trassierra (Anna Pavlova)",
+numero: 401,
+lat: "37.894283",
+lng: "-4.80279",
+tipo: ""
+},
+{
+nombre: "Glorieta Albaida",
+numero: 244,
+lat: "37.895054",
+lng: "-4.805896",
+tipo: ""
+},
+{
+nombre: "San Rafael de la Albaida",
+numero: 494,
+lat: "37.895862",
+lng: "-4.809533",
+tipo: ""
+},
+{
+nombre: "Juan Vacas",
+numero: 499,
+lat: "37.89397",
+lng: "-4.80998",
+tipo: ""
+},
+{
+nombre: "José Aguilar de Dios",
+numero: 500,
+lat: "37.89264",
+lng: "-4.81136",
+tipo: "fin"
+}
+],
+count: 48,
+tipo: 3,
+res: 1
+}
