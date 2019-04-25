@@ -1,4 +1,4 @@
-paradas: [
+[paradas: [
 {
 nombre: "José Aguilar de Dios",
 numero: 500,
@@ -335,4 +335,5 @@ lat: "37.89264",
 lng: "-4.81136",
 tipo: "fin"
 }
+]
 ]
