@@ -1,4 +1,4 @@
-["paradas": [
+{"paradas": [
 {
 "nombre": "José Aguilar de Dios",
 "numero": 500,
@@ -336,4 +336,4 @@
 "tipo": "fin"
 }
 ]
-]
+}
