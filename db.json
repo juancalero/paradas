@@ -1,105 +1,105 @@
 {"paradas": [
 {
 "nombre": "José Aguilar de Dios",
-"id": 500,
+"numero": 500,
 "lat": "37.89264",
 "lng": "-4.81136",
 "tipo": "inicio"
 },
 {
 "nombre": "José Aguilar de Dios 2ª",
-"id": 501,
+"numero": 501,
 "lat": "37.89565",
 "lng": "-4.81102",
 "tipo": ""
 },
 {
 "nombre": "Albaida",
-"id": 426,
+"numero": 426,
 "lat": "37.89542",
 "lng": "-4.808316",
 "tipo": ""
 },
 {
 "nombre": "Ctra. Trassierra (Anna Pavlova) D.C",
-"id": 402,
+"numero": 402,
 "lat": "37.894184",
 "lng": "-4.802822",
 "tipo": ""
 },
 {
 "nombre": "Isla Formentera",
-"id": 315,
+"numero": 315,
 "lat": "37.892971",
 "lng": "-4.799572",
 "tipo": ""
 },
 {
 "nombre": "Isla Mallorca D.C (Juzgados)",
-"id": 329,
+"numero": 329,
 "lat": "37.891811",
 "lng": "-4.798719",
 "tipo": ""
 },
 {
 "nombre": "Arroyo del Moro D.C.",
-"id": 330,
+"numero": 330,
 "lat": "37.889328",
 "lng": "-4.797501",
 "tipo": ""
 },
 {
 "nombre": "Escritor Mercado Solís D.C.",
-"id": 99,
+"numero": 99,
 "lat": "37.888805",
 "lng": "-4.795087",
 "tipo": ""
 },
 {
 "nombre": "Francisco Azorín",
-"id": 342,
+"numero": 342,
 "lat": "37.887527",
 "lng": "-4.794411",
 "tipo": ""
 },
 {
 "nombre": "RENFE-Est.Buses OESTE",
-"id": 442,
+"numero": 442,
 "lat": "37.888615",
 "lng": "-4.790447",
 "tipo": ""
 },
 {
 "nombre": "Avda. América",
-"id": 51,
+"numero": 51,
 "lat": "37.88969",
 "lng": "-4.784809",
 "tipo": ""
 },
 {
 "nombre": "Gran Capitán",
-"id": 131,
+"numero": 131,
 "lat": "37.888847",
 "lng": "-4.782754",
 "tipo": ""
 },
 {
 "nombre": "Ronda Tejares (Calle Caño)",
-"id": 459,
+"numero": 459,
 "lat": "37.888958",
 "lng": "-4.779904",
 "tipo": ""
 },
 {
 "nombre": "Claudio Marcelo (Tendillas)",
-"id": 271,
+"numero": 271,
 "lat": "37.884457",
 "lng": "-4.778425",
 "tipo": ""
 },
 {
 "nombre": "Diario Córdoba",
-"id": 83,
+"numero": 83,
 "lat": "37.884266",
 "lng": "-4.776344",
 "tipo": ""
