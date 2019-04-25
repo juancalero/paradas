@@ -1,4 +1,3 @@
-{
 paradas: [
 {
 nombre: "José Aguilar de Dios",
@@ -336,8 +335,4 @@ lat: "37.89264",
 lng: "-4.81136",
 tipo: "fin"
 }
-],
-count: 48,
-tipo: 3,
-res: 1
-}
+]
